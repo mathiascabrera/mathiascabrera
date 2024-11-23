@@ -1,4 +1,4 @@
-# 👀 A BRIEF DESCRIPTION ABOUT ME:
+# 🚀 A BRIEF DESCRIPTION ABOUT ME:
 <img src="https://imgur.com/Z9neGyy.png">
 Hello! I am Mathías Cabrera, a Computer Engineering student at **<a href="https://www.unaj.edu.ar/carreras/ingenieria-y-agronomia/ingenieria-informatica/">UNAJ</a>** located in Buenos Aires, Argentina. I am trained with courses launched by the **<a href="https://platzi.com/p/maty.dev/">Platzi</a>** academy.<br>At 25 years old, I consider myself a responsible, organized, prudent, disciplined, optimistic, tolerant, communicative, charismatic, attentive, kind, detail-oriented, intelligent, empathetic, creative, resilient, supportive, agile, studious, persevering, and with a competitive spirit.<br>I invite you to visit my **<a href="https://mathidev.netlify.app/">Website</a>** to get to know me much more.
 
